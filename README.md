@@ -18,7 +18,7 @@ Instale as dependências do projeto com Maven
     
 ## Documentação da API
 
-[Acesse](https://amq-spring.herokuapp.com/swagger-ui/index.html) o Swagger com documento da API.
+[Acesse](https://amq-spring.herokuapp.com/swagger-ui/index.html) o Swagger com a documentação da API.
 
 
 ## Autor
